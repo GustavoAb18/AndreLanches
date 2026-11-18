@@ -66,6 +66,11 @@ export const TELEFONE_DIAL = '+5511999999999';
 ## Preview
 
 Tem um print da tela em `docs/preview.png`.
+E um GIF exemplo do aplicativo funcional
+*(Gravado no Samsung Galaxy A37, pode variar conforme.)
+
+![Demonstração do projeto](assets/demo.gif)
+
 
 ---
 
